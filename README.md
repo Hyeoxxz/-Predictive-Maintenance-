@@ -150,4 +150,4 @@ curl -X POST http://localhost:8000/predict \
 
 ---
 
-**기술 스택:** Python 3.12 · Scikit-learn · FastAPI · Pandas · NumPy · Matplotlib
+**기술 스택:** Python 3.11.9 · Scikit-learn · FastAPI · Pandas · NumPy · Matplotlib
